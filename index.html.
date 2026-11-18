@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Divine Afahakan | Official Website</title>
+
+    <meta name="description" content="Welcome to the official website of Divine Afahakan. Explore his interests in education, medicine, technology, entrepreneurship and personal development.">
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <!-- NAVIGATION -->
+    <nav class="navbar">
+
+        <a href="#home" class="logo">Divine Afahakan</a>
+
+        <button class="menu-toggle" id="menu-toggle"
+            aria-label="Open navigation menu"
+            aria-expanded="false">
+            ☰
+        </button>
+
+        <ul class="nav-links" id="nav-links">
+            <li><a href="#home">Home</a></li>
+            <li><a href="#about">About</a></li>
+            <li><a href="#education">Education</a></li>
+            <li><a href="#skills">Skills</a></li>
+            <li><a href="#projects">Projects</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+
+    </nav>
+
+
+    <!-- HOME SECTION -->
+    <header class="hero" id="home">
+
+        <p class="welcome">WELCOME TO MY PERSONAL WEBSITE</p>
+
+        <h1>Hi, I'm <span>Divine Afahakan</span></h1>
+
+        <h2>Building Knowledge. Creating Opportunities. Inspiring Impact.</h2>
+
+        <p>
+            A Nigerian student, technology enthusiast and aspiring
+            entrepreneur passionate about learning, innovation,
+            personal development and creating meaningful impact.
+        </p>
+
+        <div class="hero-buttons">
+            <a href="#about" class="btn">Discover My Story</a>
+
+            <a href="#contact" class="btn btn-outline">Contact Me</a>
+        </div>
+
+    </header>
+
+
+    <!-- ABOUT SECTION -->
+    <section id="about" class="section">
+
+        <h2>About Me</h2>
+
+        <p>
+            My name is Divine Afahakan. I am a Nigerian student,
+            technology enthusiast and aspiring entrepreneur driven
+            by a passion for knowledge, innovation and personal growth.
+        </p>
+
+        <p>
+            My interests include Medicine and Surgery, cybersecurity,
+            web development, technology and entrepreneurship.
+            I believe that continuous learning, discipline and
+            consistency are essential ingredients for success.
+        </p>
+
+        <p>
+            Beyond personal achievements, I am passionate about
+            helping people learn, sharing useful knowledge and
+            encouraging others to discover their potential.
+        </p>
+
+        <p>
+            My vision is to grow intellectually, develop valuable
+            skills and use knowledge and technology to make a
+            meaningful difference in society.
+        </p>
+
+    </section>
+
+
+    <!-- EDUCATION SECTION -->
+    <section id="education" class="section alternate">
+
+        <h2>My Education</h2>
+
+        <div class="content-card">
+
+            <h3>Academic Journey</h3>
+
+            <p>
+                I am pursuing my academic journey with a strong
+                interest in Medicine and Surgery.
+            </p>
+
+            <p>
+                I believe education is a lifelong process and
+                remain committed to improving my knowledge,
+                developing my abilities and pursuing academic excellence.
+            </p>
+
+        </div>
+
+    </section>
+
+
+    <!-- SKILLS SECTION -->
+    <section id="skills" class="section">
+
+        <h2>My Skills & Interests</h2>
+
+        <p>
+            I am continuously learning and developing abilities
+            that will help me grow academically, professionally
+            and personally.
+        </p>
+
+        <div class="skills-grid">
+
+            <div class="skill-card">Web Development</div>
+
+            <div class="skill-card">Cybersecurity</div>
+
+            <div class="skill-card">Computer Literacy</div>
+
+            <div class="skill-card">Communication</div>
+
+            <div class="skill-card">Problem Solving</div>
+
+            <div class="skill-card">Knowledge Sharing</div>
+
+            <div class="skill-card">Entrepreneurship</div>
+
+            <div class="skill-card">Continuous Learning</div>
+
+        </div>
+
+    </section>
+
+
+    <!-- PROJECTS SECTION -->
+    <section id="projects" class="section alternate">
+
+        <h2>My Projects</h2>
+
+        <p>
+            Exploring ideas and building solutions through
+            technology, education and entrepreneurship.
+        </p>
+
+        <div class="projects-grid">
+
+            <div class="project-card">
+
+                <h3>Akwa-Cross Real Estate</h3>
+
+                <p>
+                    A digital platform focused on simplifying
+                    property discovery, improving access to
+                    real estate information and creating better
+                    experiences for people searching for properties
+                    across Akwa Ibom and Cross River States.
+                </p>
+
+                <span>Real Estate | Technology</span>
+
+            </div>
+
+
+            <div class="project-card">
+
+                <h3>Personal Portfolio Website</h3>
+
+                <p>
+                    A personal digital platform designed to
+                    showcase my biography, educational journey,
+                    technical interests, skills and future achievements.
+                </p>
+
+                <span>Web Development | Personal Branding</span>
+
+            </div>
+
+
+            <div class="project-card">
+
+                <h3>Learning & Knowledge Sharing</h3>
+
+                <p>
+                    A personal initiative focused on helping
+                    people learn, share knowledge, develop useful
+                    skills and discover opportunities for
+                    personal and intellectual growth.
+                </p>
+
+                <span>Education | Personal Development</span>
+
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <!-- CONTACT SECTION -->
+    <section id="contact" class="section">
+
+        <h2>Get In Touch</h2>
+
+        <p>
+            Have a question, an idea or an opportunity to share?
+            I'd be happy to hear from you.
+        </p>
+
+        <div class="contact-card">
+
+            <p><strong>Email Address</strong></p>
+
+            <a href="mailto:afahakandivine@gmail.com">
+                afahakandivine@gmail.com
+            </a>
+
+            <p><strong>Location</strong></p>
+
+            <p>Nigeria</p>
+
+            <p>
+                Let's connect, exchange ideas and grow together.
+            </p>
+
+        </div>
+
+    </section>
+
+
+    <!-- FOOTER -->
+    <footer>
+
+        <h3>Divine Afahakan</h3>
+
+        <p>Building Knowledge. Creating Opportunities. Inspiring Impact.</p>
+
+        <p>
+            &copy; <span id="year"></span> Divine Afahakan.
+            All Rights Reserved.
+        </p>
+
+    </footer>
+
+
+    <script src="script.js"></script>
+
+</body>
+</html>
